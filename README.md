@@ -1,5 +1,5 @@
 # Hi, I'm Jeinneson 👋
-*I’m ready to help build impactful systems that grow your business. Let’s collaborate!*
+*Fast-learning and hardworking, I build practical systems that solve real problems and I’m ready to help build impactful systems that grow your business. Let’s collaborate!*
 
 ---
 
