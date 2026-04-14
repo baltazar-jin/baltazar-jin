@@ -44,38 +44,6 @@
 ## About Me
 I enjoy building practical and reliable systems across **software and hardware**, solving real-world problems with scalable, efficient solutions.
 
----
-
-## What I'm Working On
-
-**Corex | Web Application**  
-*Full-stack fitness tracking platform*  
-**Tech Stack:** React, ASP.NET Core, RESTful API, SQL Server  
-
-- Designing a RESTful API with clean architecture  
-- Implementing relational data modeling for workout tracking  
-- Integrating frontend and backend with state management patterns  
-
----
-
-## Featured Projects
-
-**GIS Desktop Application (Thesis)**  
-*Python-based vegetation analysis tool using U-Net for land cover classification*  
-- Built data visualization features for environmental decisions  
-- Implemented image segmentation for urban planning insights  
-
-**WinWin Mobile App**  
-*Full-stack movie ticketing system with C# (.NET MAUI)*  
-- Developed booking engine with payment integration  
-- Designed cross-platform UI/UX with JSON-based data handling  
-
-**Autonomous Pesticide Robot**  
-*Raspberry Pi-based agricultural robot* (1st Runner-Up, Lear PETC Innovation Olympics 2024)  
-- Integrated sensors and microcontroller logic for autonomous navigation  
-- Solved real-world pest control challenges through embedded systems  
-
----
 
 ## Achievements
 - **1st Runner-Up** - 8th Lear PETC Innovation Olympics (2024)  
